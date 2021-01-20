@@ -1,3 +1,6 @@
+#ignore google-services.json in android dir
+android/app/google-services.json
+
 # Miscellaneous
 *.class
 *.log
